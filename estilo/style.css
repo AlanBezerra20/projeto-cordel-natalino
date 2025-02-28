@@ -19,7 +19,7 @@
     font-size: 1em ;  
 }
 html ,body {
-  font-family: var(--font1));
+  font-family: var(--font1);
   min-height: 100vh;  
  background-color:darkgray ;   
 }
